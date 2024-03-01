@@ -1,0 +1,26 @@
+h1 {color: darkturquoise; text-align: center; font-size: 350%;}
+h1 {border-style: solid; border-color: aqua; border-width: 5px;}
+h2 {color: blue; text-align: center; font-size: 200%;}
+h3 {color: green; text-align: center; font-size: 200%;}
+body {background-color: black; border-style: solid; border-color: aqua; font-size: 35px;}
+h1 {
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+  h2 {
+    font-family: "Kdam Thmor Pro", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  h3 {
+    font-family: "Shadows Into Light", cursive;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+
+  
+  
+
